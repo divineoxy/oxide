@@ -1,5 +1,6 @@
 <img src='https://github.com/ooxymoron/oxide/blob/master/assets/oxide-logo-outlined.bmp' width='100'>
 
+if it stops working messaage me
 https://discord.gg/J9Vh26wRQJ
 
 # usage
